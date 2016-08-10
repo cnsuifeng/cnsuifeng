@@ -1,4 +1,5 @@
-﻿#开发遇到问题集锦
+
+#开发遇到问题集锦
 
 ##1.[**Mysql**]【20160810】Communications link failur
 【**问题详细描述**】jdbc链接mysql，频繁操作数据库不定时报如下错误：com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
